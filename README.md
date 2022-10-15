@@ -18,7 +18,7 @@
 - Added Yearly and monthly P/L calculations 
 - Added Relatory with results 
 
-### Future Implementation: 
+### Future Implementations: 
 - Plot Return charts to identify the variables that work 
 - Plot Comparison to random parameters 
 - Plot Price x Return Chart on the same chart 
