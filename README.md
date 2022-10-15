@@ -27,5 +27,5 @@
 
 ### Author - Luiz Gabriel Bongiolo
 
-### Credits & References 
+### References 
 - Leandro Guerra Outspoken Market - Check him at: www.outspokenmarket.com / instagram @leandrowar  
