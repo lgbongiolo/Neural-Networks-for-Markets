@@ -14,9 +14,9 @@
 
 ### Version Updates:
 - Added Market chart for the whole interval 
-- Added Market chart for the Test timeframe 
+- Added Market chart for the Test time frame 
 - Added Yearly and monthly P/L calculations 
-- Added Relatory with results 
+- Added Report with results 
 
 ### Future Implementations: 
 - Plot Return charts to identify the variables that work 
