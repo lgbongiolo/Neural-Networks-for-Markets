@@ -14,11 +14,11 @@
 
 ### Version Updates:
 - Added Market chart for the whole interval 
-- Added Market chart for the Test timeframe 
+- Added Market chart for the Test time frame 
 - Added Yearly and monthly P/L calculations 
-- Added Relatory with results 
+- Added Report with results 
 
-### Future Implementation: 
+### Future Implementations: 
 - Plot Return charts to identify the variables that work 
 - Plot Comparison to random parameters 
 - Plot Price x Return Chart on the same chart 
@@ -27,5 +27,5 @@
 
 ### Author - Luiz Gabriel Bongiolo
 
-### Credits & References 
+### References 
 - Leandro Guerra Outspoken Market - Check him at: www.outspokenmarket.com / instagram @leandrowar  
